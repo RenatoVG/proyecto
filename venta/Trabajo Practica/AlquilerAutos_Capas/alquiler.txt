@@ -1,0 +1,3 @@
+AUDI,Renato Valera Garibay,00:14:16.928732200,24,336
+Honda,Renato Valera Garibay,00:30:15.733790400,10,80
+Monark,Renato Valera Garibay,00:30:26.908995400,4,8
